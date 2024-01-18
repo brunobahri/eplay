@@ -1,3 +1,5 @@
+Projeto de um Ecommerce completo, desde listagens de itens até checkout de um carrinho em React.js, TypeScript, Redux e integração com API para desenvolvimento de habilidades/treinamento
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,4 +1,3 @@
-import { JsxElement } from 'typescript'
 import { Container } from './styles'
 
 type Props = {
