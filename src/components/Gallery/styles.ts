@@ -67,6 +67,7 @@ export const ModalContent = styled.div`
   max-width: 960px;
   position: relative;
   z-index: 1;
+
   header {
     display: flex;
     justify-content: space-between;
@@ -74,6 +75,12 @@ export const ModalContent = styled.div`
     h4 {
       font-size: 18px;
       font-weight: bold;
+    }
+
+    img {
+      height: 16px;
+      width: 16px;
+      cursor: pointer;
     }
   }
 
